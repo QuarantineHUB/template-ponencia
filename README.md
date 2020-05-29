@@ -1,12 +1,19 @@
-# Repositorio template para un workshop en RIIAA '20
+# Repositorio template para las ponencias del Programmathon 2020
 
-Este repositorio de github contiene material para un workshop plantilla dentro de la [RIIAA '20](https://riiaa.org/). Para utilizarlo en tu propio taller, sigue a la siguiente sección. Nunca has usado github o markdown o jupyter/colab?
+Este repositorio de GitHub es una plantilla que contiene material (ejemplo) para un workshop dentro del [Programmathon 2020](https://quarantinehub.github.io/). Para utilizarlo en tu ponencia y subir tu material, ve a la siguiente sección. 
+
+#### ¿Nunca has usado GitHub, Markdown o Jupyter/Google Colab?
+
 Hay muchas guías en línea para usar estas tecnologías, algunas recomendaciones:
-* Github: https://guides.github.com/activities/hello-world/.
-* Markdown: https://guides.github.com/features/mastering-markdown/.
-* Jupyer notebooks: https://jupyter.org/, https://nbviewer.jupyter.org/github/jupyter/notebook/tree/master/docs/source/examples/Notebook/, https://colab.research.google.com.
+- GitHub: https://guides.github.com/activities/hello-world/.
+- Markdown: https://guides.github.com/features/mastering-markdown/.
+- Notebooks: 
+  - Jupyter: https://jupyter.org/
+  - Nbviewer: https://nbviewer.jupyter.org/github/jupyter/notebook/tree/master/docs/source/examples/Notebook/
+  - Google Colab: https://colab.research.google.com
+  - Azure notebooks: https://notebooks.azure.com/
 
-Mas dudas?, escríbele a los organizadores :) o pon un [github issue](https://help.github.com/en/articles/creating-an-issue).
+**¿Tienes más dudas?** Escríbele a los organizadores o abre un [issue](https://help.github.com/en/articles/creating-an-issue).
 
 ## Cómo usarlo para mi propio taller?
 
