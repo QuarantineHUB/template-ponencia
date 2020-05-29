@@ -36,7 +36,7 @@ La estructura está inspirada en una versión lite de [cookie cutter data scienc
 ## ¿Sugerencias? ¿Mejoras?
 Manda un [pull request](https://help.github.com/en/articles/about-pull-requests), lo evaluaremos, empezaremos una discusion y si es buena idea lo incorporaremos. :100:
 
-## Instrucciones para estudiantes
+## Instrucciones para asistentes
 
 **_Las siguientes instrucciones se pueden copiar para tu ponencia._**
 
@@ -50,7 +50,7 @@ Cosas para preparar:
 
 Las ponencias serán impartidocompartidass usando *notebooks* de Jupyter, documentos con código ejecutable, texto, ecuaciones, visualizaciones, imágenes y demás material. Los *notebooks* se pueden crear y ejecutar en la nube vía Google Colab (opción 1) o de manera local en tu computadora a través de [Jupyter Notebooks](https://jupyter.org/) usando Anaconda (opción 2).
 
-### Opcion 1: Google Colab
+### Opción 1: Google Colab
 
 [Google Colab](https://colab.research.google.com) es un servicio de Google para ejecutar *notebooks* en la nube. Provee ambientes de Python 2 y 3 con CPUs, GPUs y TPUs. ¡Y es gratis! Sólo necesitas tener una cuenta de Google o crear una.
 
@@ -66,7 +66,7 @@ La siguiente captura de pantalla ilustra este proceso.
 
 En [Google Colab](https://colab.research.google.com) puedes crear un nuevo *notebook*, subir uno existente desde tu computadora o importarlo de Google Drive o GitHub.
 
-### Opcion 2: Ambiente local
+### Opción 2: Ambiente local
 
 Para tener la versión de Python 3.7+ y todas las bibliotecas instaladas en cualquier plataforma, recomendamos que uses [**Anaconda**](https://www.anaconda.com/) y generes un ambiente con el archivo `environment.yml` de este repositorio usando una terminal y el comando:
 
